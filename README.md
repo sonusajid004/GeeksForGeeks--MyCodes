@@ -1,2 +1,2 @@
-# GeeksForGeeks--MyCodes
-These are the codes that i have used to solve different problems from geeksforgeeks.
+# GeeksForGeeks--
+These are the code snippets that i have used to solve different problems from geeksforgeeks.
